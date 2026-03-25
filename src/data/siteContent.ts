@@ -43,7 +43,7 @@ export const TEAM: TeamMember[] = [
     name: "Alba Massó del VAlle",
     role: "Socio fundador",
     bio: "Más de 15 años de experiencia en consultoría estratégica y transformación de negocios en América Latina.",
-    photo: "/images/team/alba-perfil-small.jpg",
+    photo: "/images/team/alba-perfil-big.jpeg",
   },
   {
     name: "Ignacio Llapur",

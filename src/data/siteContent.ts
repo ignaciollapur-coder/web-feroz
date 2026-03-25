@@ -64,17 +64,17 @@ export const TEAM: TeamMember[] = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     quote:
-      "FERZ nos ayudó a ver con claridad el camino a seguir en un momento de alta incertidumbre. Su acompañamiento fue clave para tomar decisiones con confianza.",
+      "Hace años que trabajamos con FERZ en estudios de mercado. Su trabajo nos brinda información valiosa y aplicada a la realidad del negocio, lo que nos permite ajustar mejor cada desarrollo.",
     author: "Martin Prez",
     role: "CEO",
-    company: "Empresa S.A.",
+    company: "Pilay",
   },
   {
     quote:
       "El equipo de FERZ combinó un análisis muy riguroso con una capacidad de ejecución que pocas consultoras tienen. Recomendaría trabajar con ellos sin dudarlo.",
-    author: "Nombre Apellido",
-    role: "Directora de Operaciones",
-    company: "Empresa S.A.",
+    author: "Hugo Pedriel",
+    role: "Dueño y Gerente",
+    company: "McDonalds & Remax Litoral",
   },
   {
     quote:

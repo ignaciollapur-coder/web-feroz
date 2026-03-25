@@ -41,20 +41,20 @@ export const ABOUT = {
 export const TEAM: TeamMember[] = [
   {
     name: "Alba Massó del VAlle",
-    role: "Socio fundador",
+    role: "Socia fundadora",
     bio: "Más de 15 años de experiencia en consultoría estratégica y transformación de negocios en América Latina.",
     photo: "/images/team/alba-perfil-big.jpeg",
   },
   {
     name: "Ignacio Llapur",
-    role: "Socia",
+    role: "Consultor Senior",
     bio: "Especialista en operaciones y gestión del cambio con trayectoria en empresas líderes del sector financiero e industrial.",
     photo: "/images/team/ignacio-perfil.jpg",
     objectPosition: "center 30%",
   },
   {
     name: "Santiago Vidoz",
-    role: "Director de proyectos",
+    role: "Project Manager",
     bio: "Experto en desarrollo comercial y expansión de mercados con foco en resultados medibles y sostenibles.",
     photo: "/images/team/santi-perfil.jpg",
   },

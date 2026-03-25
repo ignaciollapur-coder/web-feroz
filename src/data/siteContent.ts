@@ -2,9 +2,9 @@ import type { Service, TeamMember, Testimonial, ClientLogo } from "@/types";
 
 // ─── HERO ──────────────────────────────────────────────────────────────────────
 export const HERO = {
-  headline: "Transformamos desafíos complejos en resultados concretos",
+  headline: "Las decisiones importantes no deberían tomarse a ciegas",
   subheadline:
-    "FERZ es una consultora especializada en estrategia, operaciones y transformación organizacional para empresas que quieren crecer de manera sostenible.",
+    "Investigamos clientes, productos y mercados para que las empresas decidan con información clara y confiable.",
   ctaPrimary: { label: "Hablemos", href: "#contact" },
   ctaSecondary: { label: "Nuestros servicios", href: "#services" },
 };
@@ -40,7 +40,7 @@ export const ABOUT = {
 // ─── TEAM ─────────────────────────────────────────────────────────────────────
 export const TEAM: TeamMember[] = [
   {
-    name: "Alba Massó del VAlle",
+    name: "Alba Massó del Valle",
     role: "Socia fundadora",
     bio: "Más de 15 años de experiencia en consultoría estratégica y transformación de negocios en América Latina.",
     photo: "/images/team/alba-perfil-big.jpeg",

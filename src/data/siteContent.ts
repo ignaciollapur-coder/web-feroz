@@ -101,10 +101,8 @@ export const CONTACT = {
     "Completá el formulario y nos comunicamos en menos de 24 horas.",
   email: "contacto@ferzconsultoria.com",
   serviceOptions: [
-    "Estrategia y planificación",
-    "Mejora operacional",
-    "Transformación organizacional",
-    "Desarrollo comercial",
+    "Estudio de factibilidad",
+    "Investigación de mercado",
     "Otro",
   ],
 };
